@@ -73,6 +73,4 @@ Contributions are welcome! If you'd like to improve this project, feel free to *
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-Made with ❤️ by [Rajat Mehta]
 
